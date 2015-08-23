@@ -1,0 +1,2 @@
+# skatespot
+We love skateboarding
